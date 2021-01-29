@@ -43,6 +43,10 @@ body {
     width: 20rem;
 }
 
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+}
+
 .circle button {
     background: transparent;
     border: 0;
